@@ -1,0 +1,82 @@
+ 
+CONTACT  
+8667064991 - Madurai  
+umesh.ei22@bitsathy.ac.in  
+arulkani2412@gmail.com  
+https://www.linkedin.com/in/umesh-ak/ 
+https://github.com/DEATHSLYER  
+TECHNICAL SKILLS /  FRAMEWORKS   
+• BLENDER  
+• RASA  
+• LARAVEL  
+• REACT.JS  
+• AUTOMATION USING PI AND PLC  
+TECHNICAL LANGUAGES (PROBLEM SOLVING)  
+• C  
+• PYTHON  
+• JAVA  
+AREAS OF INTREST   
+Graphics Designing  
+Conversational AI  
+Problem Solving  
+Project Management  
+Automation Systems  
+                    
+UMESH A  
+ELECTRONICS AND INSTRUMENTATION ENGINEERING  
+Objective  
+To Utilize my Knowledge and Perseverance along 
+Graphics  Designing and Problem-Solving Skills with a 
+Passion to Learn New  Technologies and Gain Lot of 
+Experiences and Provide the Best and Valuable Output 
+with My Full Involvement for A Better Future  
+EDUCATION  
+MAHATMA BABA MATRICULATION HIGHER SECONDARY 
+SCHOOL,  MADURAI  
+SSLC – 91.4 % HSC – 92.5 %  
+BANNARI AMMAN INSTITUTE OF TECHNOLOGY,  
+SATHYAMANGALAM  
+B.E.EIE (2022-2026) CGPA - 8.53 Up to 5th semester  
+PROJECTS  
+Chatbot Ticketing System (RASA): ( 5 Members : Role 
+-Model Training)  
+A chatbot using Rasa to automate ticket booking, 
+cancellations, and  customer queries through natural 
+language understanding, making  ticketing faster and 
+easier.  
+Emotion Detection (Embedded C):  
+Measures skin conductivity using sensors to detect 
+emotions like  stress or excitement in real time, coded with 
+Embedded C for  wearable devices.  
+Centralized Pill Dispenser:  
+A smart IoT device that automatically dispenses pills 
+based on a  schedule and sends reminders to ensure timely 
+medication.  
+Storytelling Chatbot (RASA):  
+An interactive bot that creates personalized stories based 
+on user  input, making it ideal for entertainment, 
+education, or therapy. 
+
+Reminder App (Laravel): 
+LANGUAGES  
+Tamil (R,W,S)  
+English (R,W,S) 
+Japanese (R,W)  
+HOBBIES  
+Art  
+Designing  
+Learning new Tech  
+DECLARATION:  
+A Laravel-based app to set and manage reminders with 
+notifications  to keep tasks organized and on track.  
+Async AI Chatbot (RASA, Django, asyncio): (Currently 
+learning and  Working on)  
+A highly scalable chatbot combining Rasa, Django, asyncio, 
+and LLMs  for fast, intelligent, and interactive responses.  
+CO CURRICULAR  
+Smart India Hackathon Software Edition Finalist  
+Solid works Aakruti 2024 Semi – Finalist  
+TN Skills Industry 4.0 Semi Finalist  
+Python And Java Fundamentals Certification  
+Blender Tutorials and Done My Japanese N5 Course  
+I UMESH A, hereby declare that the above written particulars are true to the best of my knowledge. 
